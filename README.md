@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ferdean/ferdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ferran, an aerospace engineer and a student at the double MSc Computer Simulations for Science and Engineering ([COSSE](https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering/msc-computer-simulations-for-science-and-engineering-1.44243)) at the TU Berlin (scientific computing) and KTH Stockholm (applied mathematics).
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdean&layout=compact&exclude=ROM-benchmarking,ferdean.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me at
+<a href="https://github.com/ferdean">
+  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ferrandeandres/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="deandresvertferran@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
