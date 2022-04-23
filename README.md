@@ -2,7 +2,7 @@
 
 I'm Ferran, an aerospace engineer and a student at the double MSc Computer Simulations for Science and Engineering ([COSSE](https://www.kth.se/en/studies/master/computer-simulations-for-science-and-engineering/msc-computer-simulations-for-science-and-engineering-1.44243)) at the TU Berlin (scientific computing) and KTH Stockholm (applied mathematics).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdean&layout=compact&exclude=ROM-benchmarking,ferdean.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdean&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Find me at
 <a href="https://github.com/ferdean">
