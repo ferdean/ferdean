@@ -11,5 +11,5 @@ I'm Ferran, an aerospace engineer and a student at the double MSc Computer Simul
 <a href="https://www.linkedin.com/in/ferrandeandres/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="deandresvertferran@gmail.com">
+<a href="mailto:deandresvertferran@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
