@@ -13,4 +13,3 @@ I'm Ferran, an aerospace engineer and a student at the double MSc Computer Simul
 </a>
 <a href="mailto:deandresvertferran@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- 
