@@ -4,6 +4,8 @@ I'm Ferran, an aerospace engineer and a student at the double MSc Computer Simul
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdean&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=ferdean&color=green)
+
 ### Find me at
 <a href="https://github.com/ferdean">
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
